@@ -1,0 +1,58 @@
+body{
+  font-family: 'Gothic A1';
+  text-align: center;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: 'Gothic A1';
+  font-weight: bold;
+  font-size: 85px;
+  line-height: 1,2;
+}
+h3 {
+  font-family: 'Gothic A1';
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 1,2;
+}
+h2 {
+  font-family: 'roboto';
+  font-weight: italic;
+  font-size: 30px;
+}
+
+h4 {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.container1 {
+  margin-left: 90pt;
+  margin-right: 90pt;
+  margin-top: 30pt;
+  margin-bottom: 30pt;
+}
+.container2 {
+  margin-left: 90pt;
+  margin-right: 90pt;
+  margin-top: 30pt;
+  margin-bottom: 30pt;
+}
+.container3 {
+  margin-left: 210pt;
+  margin-right: 210pt;
+  margin-top: 30pt;
+  margin-bottom: 30pt;
+}
+
+p {
+   margin-top: 1em;
+   margin-bottom: 1em;
+}
+
+img {
+	width: 600px;
+	height: 600px;
+}
